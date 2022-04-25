@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295718889120",
+    "project_id": "ex23-firestore",
+    "storage_bucket": "ex23-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295718889120:android:028a39fbebfb052341cbc5",
+        "android_client_info": {
+          "package_name": "com.example.ex23_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295718889120-adujn32nfcf70n77kirvj7fr6r01rl6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA87PmOQlASfS96x-iLtqCf15obdBptTG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295718889120-adujn32nfcf70n77kirvj7fr6r01rl6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
